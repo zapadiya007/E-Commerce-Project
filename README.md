@@ -16,12 +16,6 @@ Day 4 : React introduction - Event (vid. 13-15)
 Day 5 : React introduction - Conditional Rendering/List/List and keys(vid. 16-19)
 
 
-Watch videos from below play list and perform assignments given in 6 Semester Training Plan document
-https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=1
-
-
-
-
 ## Week 2 Task : 27 Feb to 3 Mar
 #### Material ui introduction and css in react and registration page
 
@@ -34,10 +28,6 @@ Day 8 : React introduction - Component Lifecycle method (vid. 22-24)
 Day 9 : React introduction - Higher Order Components (vid. 33-35)
 
 Day 10: React introduction - Context (vid. 38-40)
-
-Watch videos from below play list and perform assignments given in 6 Semester Training Plan document and Update Daily task sheet.
-
-https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=1
 
 
 ## Week 3 Task : 6 Mar to 10 Mar
@@ -71,4 +61,8 @@ https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rx
 #### cart context, add to cart and place Order
 
 
+### ReactJS Training
+Watch videos from below play list and perform assignments given in 6 Semester Training Plan document and Update Daily task sheet.
+
+https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=1
 

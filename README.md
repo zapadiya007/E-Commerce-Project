@@ -1,6 +1,17 @@
 # E-Commerce-Project
 #### TatvaSoft : 6 Semester Internship Industrial Project
 #### 12 Week Training Program (Feb 2023)
+## ⚡ Technologies
+
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Week 1 Task : 20 Feb to 24 Feb
 ### React introduction and project overview, React installation and Project folder structure basics of component and props
@@ -66,3 +77,8 @@ Watch videos from below play list and perform assignments given in 6 Semester Tr
 
 https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=1
 
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zapadiya007.E-Commerce-Project)
+![Profile last updated](https://img.shields.io/github/last-commit/zapadiya007/E-Commerce-Project/master?label=Last%20updated&style=flat)

@@ -1,8 +1,8 @@
 # E-Commerce-Project
 #### TatvaSoft : 6 Semester Internship Industrial Project
 #### 12 Week Training Program (Feb 2023)
-## ⚡ Technologies
 
+## ⚡ Technologies
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -12,6 +12,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Repo Size](https://img.shields.io/github/repo-size/zapadiya007/E-Commerce-Project?label=Repo%20Size)
+
+![Code Size](https://img.shields.io/github/languages/code-size/zapadiya007/E-Commerce-Project?label=Code%20Size)
+
+![File](https://img.shields.io/github/directory-file-count/zapadiya007/E-Commerce-Project?label=File%20in%20This%20Repo)
 
 ## Week 1 Task : 20 Feb to 24 Feb
 ### React introduction and project overview, React installation and Project folder structure basics of component and props

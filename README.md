@@ -35,6 +35,9 @@ Day 2 : React introduction- Components (vid. 4-6)
         Title.js Render -> Home.js 
 
 Day 3 : React introduction - State (vid. 10-12) 
+        
+        Create state in Home.js for Title and Description
+        Pass states as props to Title.js 
 
 Day 4 : React introduction - Event (vid. 13-15)
 

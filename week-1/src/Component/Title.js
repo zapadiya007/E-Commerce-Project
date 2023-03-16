@@ -1,7 +1,11 @@
-function Title() {
+import './Title.css';
+
+function Title(props) {
     return (
-        <div>
-            <h1>Function Component</h1>
+
+        <div className="title-component">
+
+            <h1>{props.name} Component</h1>
             <h4>This is Function Component</h4>
         </div>
     )

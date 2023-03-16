@@ -7,11 +7,13 @@ function App() {
     <div className="App">
 
       <h1>Ashish Zapadiya</h1>
+      <h4>App Body</h4>
       <br/>
 
       <Home/>
 
-
+      <br/>
+      <br/>
     </div>
   );
 }
